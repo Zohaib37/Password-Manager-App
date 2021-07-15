@@ -15,7 +15,10 @@ When the add button is clicked, the user is asked to confirm if they want to sav
 \
 ![mypass3](https://user-images.githubusercontent.com/64097953/125862803-86933a12-1803-484a-9d47-3f963bb74231.png)\
 \
-The search button gives the details saved about a particular website. On writing the name of a particular website and pressing the search button, email and password saved for that website are displayed.
+The search button gives the details saved about a particular website. On writing the name of a particular website and pressing the search button, email and password saved for that website are displayed.\
+\
+![mypass4](https://user-images.githubusercontent.com/64097953/125863238-b25dc276-14ee-4007-9ed7-a42f43458fdb.png)
+
 
 
 
