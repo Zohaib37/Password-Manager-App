@@ -9,5 +9,8 @@ combinations of letters, symbols and numbers. As soon as the password is generat
 ![mypass](https://user-images.githubusercontent.com/64097953/125861862-3a378622-b8ee-498d-91f8-615945024bba.png)
 \
 \
-When the add button is clicked, the user is asked to confirm if they want to save this data. On clicking yes, a new json file is created that records the data.
+When the add button is clicked, the user is asked to confirm if they want to save this data. On clicking yes, a new json file is created that records the data.\
+\
+![mypass2](https://user-images.githubusercontent.com/64097953/125862594-79682b9f-f343-4b18-8385-fc5bf2ff73bc.png)
+
 
